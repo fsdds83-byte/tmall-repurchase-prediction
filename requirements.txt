@@ -6,3 +6,4 @@ xgboost==3.4.1
 duckdb
 jupyter
 ipykernel
+seaborn
