@@ -1,0 +1,34 @@
+# Python 环境
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter 临时文件
+.ipynb_checkpoints/
+
+# 原始数据
+data/data_format1/
+
+# 大型特征文件
+feature/*.csv
+feature/*.pkl
+
+# 预测中间文件
+data/trainpreds_*.npy
+data/submission_*.csv
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 不上传的旧 Notebook
+script.ipynb
+feature/feature_new.ipynb
+
+# 中间调参结果
+model/*.npz
+model/*.txt
+model/*.xlsx
+
+# 单独导出的图片
+images/

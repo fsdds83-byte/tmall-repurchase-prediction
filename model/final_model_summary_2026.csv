@@ -1,0 +1,6 @@
+﻿模型,关键参数
+Logistic Regression,max_iter=138
+Random Forest,"n_estimators=155, max_depth=15, max_features=16, criterion=entropy"
+XGBoost,"n_estimators=89, max_depth=6, learning_rate=0.1"
+Stacking Perceptron,"alpha=0.0001, max_iter=1000"
+Stacking Logistic Regression,max_iter=138
